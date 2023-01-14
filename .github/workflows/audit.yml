@@ -1,6 +1,6 @@
 name: cargo audit
 on:
-  workflow-dispatch
+  workflow-dispatch:
 #  schedule:
 #    - cron: '0 0 * * *'
 
