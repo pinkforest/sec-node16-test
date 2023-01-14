@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 atty = "0.2.14"
+websocket = "0.25"
